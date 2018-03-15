@@ -1,2 +1,2 @@
-# Recipes_and_Nutrition
+# Recipes-and-Nutrition
 Project #1
